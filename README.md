@@ -1,5 +1,7 @@
 # Snowy Owl Config
 
+# THIS LIBRARY HAS BEEN DEPRECATED IN FAVOR OF THE MORE GENERIC [config-tree](http://github.com/mhkeller/config-tree) MODULE.
+
 A node module to set configs to get your [snowy-owl-cli](https://github.com/mhkeller/snowy-wol-cli) started.
 
 ## Usage
